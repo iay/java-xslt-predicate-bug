@@ -14,4 +14,4 @@ echo
 echo "********** TESTING Xalan **********"
 echo
 
-java -classpath xalan/impl/xercesImpl-2.11.0.jar:xalan/impl/xml-resolver-1.2.jar:xalan/impl/xalan-2.7.1.jar:xalan/impl/serializer-2.11.0.jar:xalan/impl/xml-apis-2.11.0.jar:xalan/lib/sdss-xalan-md-1.1.5.jar:xalan/lib/joda-time-1.6.jar:. MultiPredicateTest
+java -classpath xalan/impl/xercesImpl-2.11.0.jar:xalan/impl/xml-resolver-1.2.jar:xalan/impl/xalan-2.7.1.jar:xalan/impl/serializer-2.11.0.jar:xalan/impl/xml-apis-2.11.0.jar:. MultiPredicateTest
